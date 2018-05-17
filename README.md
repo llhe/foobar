@@ -1,5 +1,5 @@
 # Foobar
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Build Status](https://travis-ci.org/llhe/foobar.svg?branch=master)](https://travis-ci.org/llhe/foobar)
 
 [Documentation](http://foobar-llhe.readthedocs.io/en/latest/) |
 [FAQ](docs/faq.md) |
