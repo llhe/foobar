@@ -5,6 +5,8 @@ stages:
 test:
   stage: test
   script:
+    - env
+    - ifconfig
     - echo success > report.txt
   artifacts:
     paths:
