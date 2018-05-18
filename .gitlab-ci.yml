@@ -10,8 +10,8 @@ test:
     paths:
       - report.txt
 
-op_benchmark:
-  stage: op_benchmark
+benchmark:
+  stage: benchmark
   script:
     - echo success
 
