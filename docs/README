@@ -3,5 +3,3 @@ The documents are based on Sphinx, run the following commands to build the docum
 pip install sphinx sphinx-autobuild
 pip install recommonmark
 make html
-
-After building, the generated documents are located in _build.
