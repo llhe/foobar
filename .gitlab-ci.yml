@@ -1,0 +1,17 @@
+stages:
+  - test
+  - benchmark
+
+test:
+  stage: test
+  script:
+    - echo success > report.txt
+  artifacts:
+    paths:
+      - report.txt
+
+op_benchmark:
+  stage: op_benchmark
+  script:
+    - echo success
+
