@@ -8,6 +8,10 @@ test:
     - env
     - ifconfig
     - echo success > report.txt
+    - echo key,value > report.csv
+    - echo a,100 >> report.csv
+    - echo b,200 >> report.csv
+    - echo c,300 >> report.csv
   artifacts:
     paths:
       - report.txt
