@@ -1,4 +1,4 @@
 Introduction
 ============
 
-This is introduction page.
+This is introduction page, period.
