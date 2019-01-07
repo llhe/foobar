@@ -9,6 +9,7 @@ The main documentation is organized into the following sections:
    :name: sec-start
 
    getting_started/introduction
+   getting_started/introduction_zh
 
 .. toctree::
    :maxdepth: 1
